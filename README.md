@@ -1,5 +1,5 @@
-# Ну ничего себе, куб! А он изометрический?
-![изображение](https://github.com/omabakumova/CoolComputerGeometry/assets/115540252/81287a89-4303-4e43-b78e-bc1156440c61)
+# Ну ничего себе! Сфера слопала цилиндр :0?
+![прикол](https://github.com/user-attachments/assets/e8dc98b6-1a7c-4b88-b0a1-25f3f5c0be78)
 
 Гифка для привлечения внимания
 
